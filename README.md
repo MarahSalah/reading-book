@@ -14,12 +14,20 @@ Wireframe and Mockup Link : https://www.figma.com/file/ji5lSe21DmFL2IahJN7xQv/Un
 
 Resources:
 
-Figma
+Figma 
+<br>
 Trello
+<br>
 GitHub
+<br>
 Json server auth
+<br>
 Tailwind
+<br>
 Tailwind
+<br>
 Javascript
+<br>
 Css
+<br>
 Html

@@ -10,3 +10,16 @@ Wireframe and Mockup Link : https://www.figma.com/file/ji5lSe21DmFL2IahJN7xQv/Un
 
 
 [MEMBER : Marah Salah](https://github.com/MarahSalah)
+
+
+Resources:
+
+Figma
+Trello
+GitHub
+Json server auth
+Tailwind
+Tailwind
+Javascript
+Css
+Html
